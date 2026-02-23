@@ -1,5 +1,9 @@
 # Cooldown in seconds
 cooldown-seconds: 15
 
+# Where to send cooldown message
+# Options: "chat" or "actionbar"
+message-type: "actionbar"
+
 # Message shown when player tries to throw pearl during cooldown
 cooldown-message: "§cYou must wait {TIME}s before throwing another ender pearl!"
