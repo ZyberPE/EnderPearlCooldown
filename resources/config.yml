@@ -1,0 +1,5 @@
+# Cooldown in seconds
+cooldown-seconds: 15
+
+# Message shown when player tries to throw pearl during cooldown
+cooldown-message: "§cYou must wait {TIME}s before throwing another ender pearl!"
